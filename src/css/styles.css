@@ -101,3 +101,8 @@ input:active {
 .info p:last-child {
   line-height: 24px;
 }
+
+.load-more {
+  margin: 0 auto;
+  margin-top: 32px;
+}
